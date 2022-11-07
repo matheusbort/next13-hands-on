@@ -68,6 +68,11 @@
     Bitstream Vera Sans Mono, Courier New, monospace;
 }
 
+.code:hover {
+  color: #0070f3;
+  cursor: pointer;
+}
+
 .grid {
   display: flex;
   align-items: center;
